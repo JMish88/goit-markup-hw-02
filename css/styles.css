@@ -52,3 +52,14 @@ body {background-color: #e5e5e5; color: var(--primary-text-color);}
 .adress { color: var(--secondary-text-color);}
 .mail {color: rgba(255, 255, 255, 0.6);}
 .telephone {color: rgba(255, 255, 255, 0.6);}
+
+
+            /* portfolio*/
+
+.portfolio-section { background-color: #e5e5e5;}
+.port-button {background-color: #F5F4FA;}
+.port-button:hover, .port-button:focus { background-color: var(--accent-color); color: var(--secondary-text-color);}
+.text {color: #757575;}
+
+
+
