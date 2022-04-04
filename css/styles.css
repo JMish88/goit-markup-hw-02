@@ -1,0 +1,54 @@
+:root { --primary-text-color: #212121;
+        --accent-color: #2196F3;
+        --secondary-text-color: #ffffff;}
+
+body {background-color: #e5e5e5; color: var(--primary-text-color);}
+
+
+/* header*/
+
+.page-header {background-color: #ffffff; }
+
+
+.site-nav a {color: var(--primary-text-color);}
+ 
+.link:focus, .link:hover { color: var(--accent-color) ;}
+
+.auth-nav a {color: #757575;}
+.auth-nav a:hover, .auth-nav a:focus { color: var(--accent-color);}
+
+/*hero*/
+
+.hero-section {background-color: #2F303A;}
+
+.hero-title {color: var(--secondary-text-color);}
+.hero-button {background-color: var(--accent-color);
+            color: var(--secondary-text-color);}
+
+           
+            /*benefits*/
+
+     .title {color: var(--primary-text-color);}    
+     .text {color: #757575;}   
+
+    
+    
+            /*what we do*/
+
+
+
+             /*our team*/
+
+
+.team-section { background-color: #F5F4FA;}
+.position {color: #757575;}
+
+           
+
+            /*footer*/
+
+.footer-section {background-color: #2F303A;}
+
+.adress { color: var(--secondary-text-color);}
+.mail {color: rgba(255, 255, 255, 0.6);}
+.telephone {color: rgba(255, 255, 255, 0.6);}
